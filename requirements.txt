@@ -1,0 +1,8 @@
+tensorflow
+matplotlib
+opencv-python
+numpy
+scikit-learn
+pandas
+gradio
+jupyterlab
