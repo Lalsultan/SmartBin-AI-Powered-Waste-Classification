@@ -1,4 +1,4 @@
-# AI Waste Classification
+# SmartBin: AI-Powered Waste Classification
 
 A collaborative academic project that classifies waste images into six categories using transfer learning with MobileNetV2 and a TensorFlow/Keras classifier head. The notebook includes image preprocessing, data splitting, augmentation, evaluation, Arabic class labels, and an optional Gradio interface.
 
